@@ -2,7 +2,7 @@ import unittest
 
 from program import divide
 
-class TestSum(unittest.TestCase):
+class TestDiv(unittest.TestCase):
 	def test_1(self):
 		a_1 = 30
 		b_1 = 10
